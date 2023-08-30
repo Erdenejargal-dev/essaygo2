@@ -42,9 +42,9 @@ export default function Home() {
           title="Bridge to Expertise: Where Essays Transform Through Peer and Pro Reviews"
           subtitle="Эсээгээ явуулах гэхээр нэг л эргэлзээд гацчихсан эсвэл ямар нэг гадны хүний өнцөг хэрэгтэй байвал Essay Go ын Counsellor уудын тусламжтайгаар эсээгээ дараагийн шатанд гаргах боломжтой."
           benefits={[
-            {illustration:'', title:'Main benefit of your product', text:'Brief explanation of why and how this benefit will help your customers'},
-            {illustration:'', title:'Main benefit of your product', text:'Brief explanation of why and how this benefit will help your customers'},
-            {illustration:'', title:'Main benefit of your product', text:'Brief explanation of why and how this benefit will help your customers'},
+            {illustration:'', title:'Эсээ үнэн байх хэрэгтэй', text:'Brief explanation of why and how this benefit will help your customers'},
+            {illustration:'', title:'Эсээ асуултандаа хариулсан байх ёстой', text:'Brief explanation of why and how this benefit will help your customers'},
+            {illustration:'', title:'Эсээ таныг тодорхойлох шаардлагатай', text:'Brief explanation of why and how this benefit will help your customers'},
           ]}
         />
 
@@ -58,18 +58,18 @@ export default function Home() {
 
         <Highlights
           title="The process"
-          subtitle="Explain why your solution deserves attention"
+          subtitle="Essay Go Guide"
           highlights={[
-            {illustration:'', title:'Now go deeper into what your product offers. Word it as benefits, not as features', text:'“Save your favorite links” is a feature. “Never lose your favorite websites again” is a benefit. Users don’t care about your product, they only care about what’s in it for them.'},
-            {illustration:'', title:'Now go deeper into what your product offers. Word it as benefits, not as features', text:'“Save your favorite links” is a feature. “Never lose your favorite websites again” is a benefit. Users don’t care about your product, they only care about what’s in it for them.'},
-            {illustration:'', title:'Now go deeper into what your product offers. Word it as benefits, not as features', text:'“Save your favorite links” is a feature. “Never lose your favorite websites again” is a benefit. Users don’t care about your product, they only care about what’s in it for them.'},
+            {illustration:'', title:'Форм бөглөж Эсээгээ явуулах', text:'“Save your favorite links” is a feature. “Never lose your favorite websites again” is a benefit. Users don’t care about your product, they only care about what’s in it for them.'},
+            {illustration:'', title:'Эсээ Counsellor руу очно', text:'“Save your favorite links” is a feature. “Never lose your favorite websites again” is a benefit. Users don’t care about your product, they only care about what’s in it for them.'},
+            {illustration:'', title:'Review хийгдсэн эсээ и-мэйл хаягаар очно', text:'“Save your favorite links” is a feature. “Never lose your favorite websites again” is a benefit. Users don’t care about your product, they only care about what’s in it for them.'},
           ]}
         />
 
         
 
         <Epilogue
-          title="Ask if your visitor wants to solve problem X today"
+          title="Ask if your Application process lack in Essay"
           subtitle="Explain how your solution will solve this problem and ask them to start a free trial, or any other low-key CTA they could take"
           illustration=""
           subscribePlaceholder="И-мэйл хаягаа бичнэ үү"
