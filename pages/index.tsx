@@ -30,17 +30,17 @@ export default function Home() {
 
       <main>
         <Hero
-          title="Clear headline that explains your product’s benefit"
-          subtitle="Explain your unique solution, how it solves your customer's problem."
+          title="Unlocking Insights: Unveiling the Art of Essay Reviews"
+          subtitle="Revealing Excellence: Our Distinct Approach to Essay Reviews and Problem-Solving Prowess"
           illustration=""
-          subscribePlaceholder="you@email.com"
-          subscribeAction="When is it ready?"
+          subscribePlaceholder="И-мэйл хаягаа бичнэ үү"
+          subscribeAction="Go?"
         />
 
         <Benefits
           background="alternate"
-          title="Headline that describes how your product solves the problem"
-          subtitle="Start by defining the pain your customer has right now, for example: clients not paying their invoices. Then write how your solution solves this problem for your customers."
+          title="Bridge to Expertise: Where Essays Transform Through Peer and Pro Reviews"
+          subtitle="Эсээгээ явуулах гэхээр нэг л эргэлзээд гацчихсан эсвэл ямар нэг гадны хүний өнцөг хэрэгтэй байвал Essay Go ын Counsellor уудын тусламжтайгаар эсээгээ дараагийн шатанд гаргах боломжтой."
           benefits={[
             {illustration:'', title:'Main benefit of your product', text:'Brief explanation of why and how this benefit will help your customers'},
             {illustration:'', title:'Main benefit of your product', text:'Brief explanation of why and how this benefit will help your customers'},
@@ -49,15 +49,15 @@ export default function Home() {
         />
 
         <Break
-          title="Risk Reduction: Try Product free for 14 days"
+          title="Risk Reduction: Essay Go on SALE 29'900₮"
           subtitle="This is an in-betwen CTA for visitors that already got convinced."
           illustration=""
-          action="When is it ready?"
+          action="GO!"
           onActionClick={() => window.scrollTo({top:99999, behavior:'smooth'})}
         />
 
         <Highlights
-          title="Highlights of your product"
+          title="The process"
           subtitle="Explain why your solution deserves attention"
           highlights={[
             {illustration:'', title:'Now go deeper into what your product offers. Word it as benefits, not as features', text:'“Save your favorite links” is a feature. “Never lose your favorite websites again” is a benefit. Users don’t care about your product, they only care about what’s in it for them.'},
@@ -66,26 +66,14 @@ export default function Home() {
           ]}
         />
 
-        <Features
-          background="alternate"
-          title="But wait, there is more"
-          subtitle="Describe the full extent of your product"
-          features={[
-            {illustration:'', title:'Product feature', text:'Brief explanation of why and how this feature will help your customers'},
-            {illustration:'', title:'Product feature', text:'Brief explanation of why and how this feature will help your customers'},
-            {illustration:'', title:'Product feature', text:'Brief explanation of why and how this feature will help your customers'},
-            {illustration:'', title:'Product feature', text:'Brief explanation of why and how this feature will help your customers'},
-            {illustration:'', title:'Product feature', text:'Brief explanation of why and how this feature will help your customers'},
-            {illustration:'', title:'Product feature', text:'Brief explanation of why and how this feature will help your customers'},
-          ]}
-        />
+        
 
         <Epilogue
           title="Ask if your visitor wants to solve problem X today"
           subtitle="Explain how your solution will solve this problem and ask them to start a free trial, or any other low-key CTA they could take"
           illustration=""
-          subscribePlaceholder="you@email.com"
-          subscribeAction="When is it ready?"
+          subscribePlaceholder="И-мэйл хаягаа бичнэ үү"
+          subscribeAction="Go?"
         />
       </main>
 
