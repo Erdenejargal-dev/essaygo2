@@ -70,7 +70,8 @@ export default function Home() {
 
         <Epilogue
           title="Ask if your Application process lack in Essay"
-          subtitle="Explain how your solution will solve this problem and ask them to start a free trial, or any other low-key CTA they could take"
+          subtitle="EssayGO хувь хүний мэдээллийг хууль ёсны дагуу
+          хадгалан ажиллахад нэмэлт хяналт тавих болно"
           illustration=""
           subscribePlaceholder="И-мэйл хаягаа бичнэ үү"
           subscribeAction="Go?"
