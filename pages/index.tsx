@@ -43,7 +43,7 @@ export default function Home() {
           subtitle="Эсээгээ явуулах гэхээр нэг л эргэлзээд гацчихсан эсвэл ямар нэг гадны хүний өнцөг хэрэгтэй байвал Essay Go ын Counsellor уудын тусламжтайгаар эсээгээ дараагийн шатанд гаргах боломжтой."
           benefits={[
             {illustration:'', title:'Personal statement review', text:'Brief explanation of why and how this benefit will help your customers'},
-            {illustration:'', title:'Extracurriculum activity review', text:'Brief explanation of why and how this benefit will help your customers'},
+            {illustration:'', title:'Extracurricular activity review', text:'Brief explanation of why and how this benefit will help your customers'},
             {illustration:'', title:'Supplement essay review', text:'Brief explanation of why and how this benefit will help your customers'},
           ]}
         />
