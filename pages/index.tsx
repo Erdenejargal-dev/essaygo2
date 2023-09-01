@@ -42,9 +42,9 @@ export default function Home() {
           title="Bridge to Expertise: Where Essays Transform Through Peer and Pro Reviews"
           subtitle="Эсээгээ явуулах гэхээр нэг л эргэлзээд гацчихсан эсвэл ямар нэг гадны хүний өнцөг хэрэгтэй байвал Essay Go ын Counsellor уудын тусламжтайгаар эсээгээ дараагийн шатанд гаргах боломжтой."
           benefits={[
-            {illustration:'', title:'Эсээ үнэн байх хэрэгтэй', text:'Brief explanation of why and how this benefit will help your customers'},
-            {illustration:'', title:'Эсээ асуултандаа хариулсан байх ёстой', text:'Brief explanation of why and how this benefit will help your customers'},
-            {illustration:'', title:'Эсээ таныг тодорхойлох шаардлагатай', text:'Brief explanation of why and how this benefit will help your customers'},
+            {illustration:'', title:'Personal statement review', text:'Brief explanation of why and how this benefit will help your customers'},
+            {illustration:'', title:'Extracurriculum activity review', text:'Brief explanation of why and how this benefit will help your customers'},
+            {illustration:'', title:'Supplement essay review', text:'Brief explanation of why and how this benefit will help your customers'},
           ]}
         />
 
